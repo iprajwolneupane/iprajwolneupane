@@ -17,7 +17,7 @@ I am a Kathmandu-based Frontend Developer specializing in building scalable, per
 ### 🛠️ My Tech Stack
 
 - **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
-- **Frameworks/Libraries:** React.js, Next.js
+- **Frameworks/Libraries:** React.js, Next.js, Express
 - **Tools & Others:** Git, GitHub, REST APIs, UI/UX Optimization
 - **Soft Skills:** Problem Solving, Scalable UI Architecture, Performance Optimization
 
