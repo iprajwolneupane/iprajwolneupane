@@ -1,62 +1,208 @@
 # Hi there, I'm Prajwol Neupane! 👋
 
-**Frontend Developer | React.js & Next.js Enthusiast**
+**Frontend Developer | React.js & Next.js Developer**
 
-I am a Kathmandu-based Frontend Developer specializing in building scalable, performance-optimized, and intuitive user interfaces. With a strong background in **React.js** and **Next.js**, I focus on delivering clean code and seamless user experiences for production-scale platforms.
-
----
-
-### 🚀 Professional Glimpse
-- 🔭 I’m currently working at **SlashPlus**, building complex frontend systems.
-- 🛠️ I have contributed to platforms like **GPS Sewa** (tracking 1000+ vehicles) and **Digibuzz**.
-- 🎓 Recently completed my BS in Computer Science from **Herald College Kathmandu**.
-- ⚡ Fun fact: I love bridging the gap between complex backend data and user-friendly visual interfaces.
+Frontend Developer based in Kathmandu specializing in building scalable, real-time, and performance-focused web applications using modern web technologies. Experienced in developing production-grade systems across fleet management, ERP, ticketing, CMS, and digital advertising platforms with a strong focus on clean architecture, usability, and responsive UI engineering.
 
 ---
 
-### 🛠️ My Tech Stack
+## 🚀 About Me
 
-- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
-- **Frameworks/Libraries:** React.js, Next.js, Express
-- **Tools & Others:** Git, GitHub, REST APIs, UI/UX Optimization
-- **Soft Skills:** Problem Solving, Scalable UI Architecture, Performance Optimization
-
----
-
-### 📈 Featured Projects
-
-#### 🛰️ [GPS Sewa](https://gpssewa.com/)
-A real-time vehicle tracking system for 1000+ vehicles. 
-- Built Admin and User panels with geofencing, alerts, and detailed reporting.
-- Developed specialized modules for College Bus tracking and LMC Garbage alerts.
-
-#### 📺 [Digibuzz](https://digibuzznp.com/)
-An in-bus digital advertising and announcement management platform.
-- Developed a centralized dashboard for ad scheduling and bus-wise content delivery.
-- Integrated location-based announcement playback for public commuters.
-
-#### 🎫 [Nepal Micro Bus Ticketing]()
-A digital ticket purchasing platform for daily commuters.
-- Implemented secure booking flows, seat availability, and digital ticket generation.
+* 🔭 Currently working as a **Frontend Developer at SlashPlus**
+* ⚡ Specialized in **React.js**, **Next.js**, and modern frontend ecosystems
+* 🛰️ Built and maintained large-scale real-time platforms like **GPS Sewa**
+* 🏢 Worked on transportation ERP systems, digital ticketing, CMS, and ad-tech solutions
+* 🎓 Completed **BS in Computer Science** from **Herald College Kathmandu**
+* 💡 Passionate about scalable frontend architecture, real-time systems, and user-centric design
 
 ---
 
-### 💼 Experience 
+## 🛠️ Tech Stack
 
-- **Frontend Developer** @ SlashPlus | *June 2024 - Present*
-- **Junior Frontend Developer / Intern** @ ShotCoder Tech | *Sept 2023 - May 2024*
+### Languages
+
+* JavaScript (ES6+)
+* TypeScript
+* Python
+* HTML5
+* CSS3
+
+### Frontend & Backend
+
+* React.js
+* Next.js
+* React Native
+* Express.js
+
+### Database & ORM
+
+* PostgreSQL
+* MongoDB
+* Prisma
+
+### Styling & Tools
+
+* Tailwind CSS
+* Git & GitHub
+* REST APIs
+* Responsive UI Design
+* Real-time Dashboards
 
 ---
 
-### 🤝 Connect with Me
+## 📈 Featured Projects
 
-- 🌐 [Website](https://www.prajwolneupane.com.np/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/prajwol-neupane)
-- 📧 [Email](mailto:prajwolneupane68@gmail.com)
+### 🛰️ [GPS Sewa](https://gpssewa.com/)
+
+Real-time fleet management and tracking platform supporting **1000+ vehicles**.
+
+#### Key Contributions
+
+* Developed Admin & User dashboards
+* Implemented:
+
+  * Real-time GPS tracking
+  * Geofencing
+  * Alerts & reporting systems
+  * Dashcam live streaming
+  * Recorded playback
+  * Two-way communication
+* Built specialized modules:
+
+  * College Bus Tracking
+  * LMC Garbage Alert System
 
 ---
 
-### 📊 GitHub Stats
+### 🚌 [Sajha Transportation ERP](https://dashboard.sajhayatayat.com.np)
 
-![Prajwol's GitHub stats](https://github-readme-stats.vercel.app/api?username=iprajwolneupane&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iprajwolneupane&layout=compact&theme=radical)
+Comprehensive ERP platform for transportation operations.
+
+#### Features
+
+* Employee attendance & task allocation
+* Accounting & resource management
+* Vehicle maintenance tracking
+* Fleet operations dashboard
+* Ticketing workflows
+* Real-time GPS & dashcam monitoring
+
+---
+
+### 🎫 [Nepal Micro Bus Ticketing](https://ticketing.nmtb.com.np)
+
+Online bus ticket booking and management system.
+
+#### Features
+
+* Online ticket booking
+* E-ticket generation
+* Payment integration
+* Route & fare management
+* Seat layout configuration
+* Scheduling system
+* Reporting & SMS notifications
+
+---
+
+### 📺 [Digibuzz](https://digibuzznp.com/)
+
+In-bus digital advertising and announcement management system.
+
+#### Features
+
+* Admin & client dashboards
+* Ad scheduling system
+* Content management workflows
+* Route-based ad targeting
+* Passenger announcement integration
+
+---
+
+### 🏥 [NIHS CMS](https://nihs.com.np/)
+
+Dynamic CMS platform for healthcare services.
+
+#### Features
+
+* Blog & event management
+* Doctor & department management
+* Service listings
+* Real-time content updates
+* Enquiry management system
+
+---
+
+### 💧 [JD Purifier](https://jdpurifier.com/)
+
+Landing page and internal management system.
+
+#### Features
+
+* Role-based workflow system
+* Customer & installation tracking
+* EMI management
+* Full CRUD blog management
+
+---
+
+## 💼 Experience
+
+### Frontend Developer — SlashPlus
+
+📍 Sanepa, Lalitpur
+🗓️ June 2024 – Present
+
+* Developed multiple production-grade platforms in transportation, ERP, ticketing, CMS, and advertising domains
+* Built scalable real-time dashboards and frontend systems
+* Focused on performance optimization and responsive architecture
+
+---
+
+### Frontend Intern / Junior Frontend Developer — ShotCoder Tech
+
+📍 Purano Baneshwor, Kathmandu
+🗓️ Sept 2023 – May 2024
+
+#### Contributions
+
+* Developed Metal Recycle App with:
+
+  * Role-based workflows
+  * Xero integration
+  * WhatsApp integration
+  * Google Maps integration
+* Contributed to **Shikshya App** admin dashboard
+
+---
+
+## 🎓 Education
+
+### Herald College Kathmandu
+
+**BS in Computer Science**
+📍 Naxal, Kathmandu
+🗓️ Nov 2022 – May 2025
+
+### Kathmandu Model College
+
+**+2 Science**
+📍 Bagbazar, Kathmandu
+🗓️ 2018 – 2020
+
+---
+
+## 🌐 Connect With Me
+
+* 🌍 Website: [https://www.prajwolneupane.com.np/](https://www.prajwolneupane.com.np/)
+* 💼 LinkedIn: [https://linkedin.com/in/prajwol-neupane](https://linkedin.com/in/prajwol-neupane)
+* 💻 GitHub: [https://github.com/iprajwolneupane](https://github.com/iprajwolneupane)
+* 📧 Email: [prajwolneupane68@gmail.com](mailto:prajwolneupane68@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+![Prajwol's GitHub stats](https://github-readme-stats.vercel.app/api?username=iprajwolneupane\&show_icons=true\&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iprajwolneupane\&layout=compact\&theme=radical)
